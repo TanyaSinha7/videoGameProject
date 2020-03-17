@@ -1,0 +1,2 @@
+cd C:\Users\91880\eclipse-workspace\VideoGameProject
+mvn clean install
